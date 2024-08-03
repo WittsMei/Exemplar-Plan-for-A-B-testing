@@ -46,17 +46,17 @@ You’ll also need to agree on a definition of success. How big of an improvemen
 ##### Other testing details
 An A/B testing plan can also contain other vital details about the test. Remember that different companies may put different information in their A/B testing plans, but a basic plan might include:
 
-A brief overview of the test and its purpose
+- A brief overview of the test and its purpose
 
-The channel being tested (e.g., Google Ads, etc.)
+- The channel being tested (e.g., Google Ads, etc.)
 
-Type of asset being tested (e.g., display ad, button copy, etc.)
+- Type of asset being tested (e.g., display ad, button copy, etc.)
 
-The duration of the test (start and end date)
+- The duration of the test (start and end date)
 
-The number of users per variant
+- The number of users per variant
 
-The confidence level (the estimated probability that the test results would remain consistent if the test ran longer)
+- The confidence level (the estimated probability that the test results would remain consistent if the test ran longer)
 
 ##### Key takeaways
 A/B testing is a valuable tool for improving digital marketing and e-commerce performance. An A/B testing plan helps you organize your efforts and results, which can lead to more efficient improvements. With a data-driven hypothesis, carefully selected variants, and a plan to measure success, you’re more likely to reach your testing goals.
